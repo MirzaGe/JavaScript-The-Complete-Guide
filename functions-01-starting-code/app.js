@@ -5,3 +5,5 @@ function startGame() {
 }
 
 startGame();
+
+startGameBtn.addEventListener('click',startGameBtn) 
